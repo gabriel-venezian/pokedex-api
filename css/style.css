@@ -20,6 +20,7 @@ h1 {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
 	grid-gap: 20px;
+	text-transform: capitalize;
 	padding-inline-start: 0;
 }
 
