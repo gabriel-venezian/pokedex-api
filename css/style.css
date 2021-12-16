@@ -114,6 +114,13 @@ h1 {
 	animation: bounce 0.5s linear;
 }
 
+.logo-img {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	padding: 10px;
+}
+
 .card-title {
 	text-transform: capitalize;
 	margin-bottom: 0px;
