@@ -4,7 +4,7 @@
 
 Get information about the first pokémon generation using [PokéAPI](https://pokeapi.co/).
 
-## Credits
+## Acknowledgments
 This application was developed with the help of [Roger-Melo](https://github.com/Roger-Melo) during the course "How to Develop a Pokédex using JavaScript", available on [YouTube](https://www.youtube.com/watch?v=Uptu3NrBFBM).
 
 ## License
